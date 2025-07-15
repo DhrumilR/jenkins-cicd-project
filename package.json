@@ -1,0 +1,10 @@
+{
+  "name": "jenkins-cicd-sample",
+  "version": "1.0.0",
+  "description": "Sample Node.js app for Jenkins CI/CD pipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {}
+}
